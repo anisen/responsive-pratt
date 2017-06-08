@@ -1,0 +1,16 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Poiret One', cursive;
+}
+.one-section{
+	background-color: #34495e;
+	color: white;
+}
+.navbar-collapse{
+	background-color: #f8f8f8;
+}
+.primera-img{
+	position: center;
+
+}
